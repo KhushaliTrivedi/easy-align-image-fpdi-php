@@ -1,8 +1,6 @@
 <?php
     /*
-        This Function will scale your image according to your Doc's Width and Height
-        and you can align your image with following endpoints [10 is the margin value, you can adjust acoordingly]
-        All the endpoints for Alignments :
+        [10 is the margin value, you can adjust acoordingly]
             Top-Left -> TL
             Top-Center -> TC
             Top-Right -> TR
