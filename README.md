@@ -5,8 +5,8 @@ This Function will scale your image according to your Doc's Width and Height and
 
 All the endpoints for Alignments :
 
-   Top-Left -> TL,
-   Top-Center -> TC,
+   Top-Left -> [ TL ],
+   Top-Center -> [ TC ],
    Top-Right -> TR,
    Center-Left -> CL,
    Center-Center -> CC,
