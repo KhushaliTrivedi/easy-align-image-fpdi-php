@@ -1,4 +1,4 @@
-# scale-fit-align-image-fpdi
+# fpdi-image-align
 
 A utility function for scaling and aligning images using **FPDF/FPDI in PHP**. This script allows you to scale an image proportionally to fit within a PDF page and place it at any common alignment point (top-left, center, bottom-right, etc.).
 
